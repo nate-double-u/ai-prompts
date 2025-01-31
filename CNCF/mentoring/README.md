@@ -32,7 +32,7 @@ Mentor 4 email address
 I know that not every project in the source will have all the fields filled (\`LFX URL\`, \`project made\`, \`mentee selection\`, and \`mentor count in LFX\` will come later), and there may not be as many as 4 mentors in each project. Please only provide the GitHub handle, no need for the \`@\` at the beginning of it.
 
 The \`PROJECT\` field should have the format of:
-\`CNCF - <CNCF Project Name>: <Mentorship project Title> (2025 Term 1)\`
+\`CNCF - \<CNCF Project Name\>: \<Mentorship project Title\> (2025 Term 1)\`
 
 Here is the source from the https://github.com/cncf/mentoring/blob/main/programs/lfx-mentorship/2025/01-Mar-May/project_ideas.md file:
 
