@@ -2,7 +2,8 @@
 
 ## pull info from a project_ideas file and create a `.csv`
 
-Model: ChatGPT o1
+Model: ChatGPT o1  
+Sample: <https://chatgpt.com/share/679d4980-51e0-8004-91f6-4d9ccebe181a>
 
 <blockquote>
 Could you help me move information in this project ideas page (shared below) into a google sheet with the following headings:
